@@ -7,38 +7,16 @@ theme = "airspace-hugo"
 
   [[menu.header]]
     weight = 2
-    name = "Orientation"
-    url = "/orientation"
+    name = "About"
+    url = "#about"
   [[menu.header]]
     weight = 3
-    name = "Coordination"
-    url = "/blog"
+    name = "Tutoring"
+    url = "#tutoring"
   [[menu.header]]
-    weight = 4
-    name = "Direction"
-    url = "/service"
-  [[menu.header]]
-    weight = 5
+    weight = 6
     name = "Contact"
-    url = "/contact"
-
-  [[menu.footer]]
-    weight = 1
-    name = "Orientation"
-    url = "#"
-  [[menu.footer]]
-    weight = 2
-    name = "Coordination"
-    url = "#"
-  [[menu.footer]]
-    weight = 3
-    name = "Direction"
-    url = "#"
-  [[menu.footer]]
-    weight = 4
-    name = "Contact"
-    url = "#"
-
+    url = "#contact"
 # The site's parameters
 [params]
 
@@ -57,24 +35,16 @@ theme = "airspace-hugo"
 
   [params.wrapper]
     enable = true
-    title = "Orientation"
+    title = "About"
     italic = "New to technology? Want to build something? Here's how to get started."
-    paragraph = "We can help you learn about Web and Mobile Development, programming, and best practices. We can also help you start upon a fulfilling entrepreneurial career path."
+    paragraph = "We can help you learn about Web and Mobile Development, programming, and best practices. You can also embark upon a fulfilling entrepreneurial career path learning HTML, CSS and JavaScript."
 
 
   [params.feature]
     enable = true
-    title = "We believe in great ideas"
+    title = "Tutoring"
     content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
-    [params.feature.button]
-      caption = "View Works"
-      url = "#"
-
-  [params.call]
-    enable = true
-    title = "We design delightful digital experiences."
-    paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
-
+   
   [params.contact]
     enable = true
     title = "Drop us a note"
