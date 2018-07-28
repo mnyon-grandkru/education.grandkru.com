@@ -25,6 +25,7 @@ There isn't an automated testing suite for the site at this point.
 ## Built With
 
 * [Hugo](https://gohugo.io/) - The web framework used
+* [Hugo-Airspace](https://themes.gohugo.io/theme/airspace-hugo/) - Airspace Theme for Hugo
 * [jQuery](https://jquery.com/) - JavaScript Framework
 * [Formspree](https://formspree.io) - Static Site Mail Program
 
