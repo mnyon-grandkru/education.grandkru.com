@@ -1,5 +1,4 @@
 title = "Grand Kru for Education"
-baseURL = "https://education.grandkru.com"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
