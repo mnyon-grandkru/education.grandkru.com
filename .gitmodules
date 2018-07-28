@@ -1,0 +1,6 @@
+[submodule "airspace-hugo"]
+	path = airspace-hugo
+	url = https://github.com/trystant/airspace-hugo
+[submodule "themes/airspace-hugo"]
+	path = themes/airspace-hugo
+	url = https://github.com/trystant/airspace-hugo
