@@ -4,8 +4,9 @@
 
 This is the website for the educational offerings for Grand Kru
 
-## Code Example
+## Screenshot
 
+![Education Homepage](https://raw.githubusercontent.com/trystant/education.grandkru.com/master/images/screenshot_1.png "Education")
 
 ## Motivation
 
@@ -24,7 +25,8 @@ There isn't an automated testing suite for the site at this point.
 ## Built With
 
 * [Hugo](https://gohugo.io/) - The web framework used
-* [jQuery](https://jquery.com/) - JavaScript
+* [jQuery](https://jquery.com/) - JavaScript Framework
+* [Formspree](https://formspree.io) - Static Site Mail Program
 
 ## Contributors
 
@@ -32,4 +34,4 @@ There isn't an automated testing suite for the site at this point.
 
 ## License
 
-EBWiki is using the [MIT License](LICENSE.txt).
+education.grandkru.com uses the [MIT License](LICENSE.txt).
