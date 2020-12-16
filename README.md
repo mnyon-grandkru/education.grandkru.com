@@ -29,7 +29,7 @@ There isn't an automated testing suite for the site at this point.
 * [jQuery](https://jquery.com/) - JavaScript Framework
 * [Formspree](https://formspree.io) - Static Site Mail Program
 
-More development information is available in [DEVELOPMENT.md](file:///docs/DEVELOPMENT.md)
+More development information is available in [DEVELOPMENT.md](docs/DEVELOPMENT.md)
 
 ## Contributors
 
